@@ -1,9 +1,9 @@
 # Software QA
 
 - [Basic overview](overview)
-- Search basics
-- Project lifecycle 
-- Test plans and test cases
+- [Search basics](search)
+- [Project lifecycle](project-lifecycle)
+- [Test plans and test cases](test-case-plan)
 - [Bug tracking systems](bugtrakers)
 - HTML basics
 - CSS basics
