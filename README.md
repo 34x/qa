@@ -1,2 +1,7 @@
-# qa
-Attempt to collect skills list and materials for QA specialist
+# QA
+
+- Basic overview
+- Project lifecycle 
+- Bug tracking systems
+- SQL basics
+
