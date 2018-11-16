@@ -1,6 +1,6 @@
 # QA
 
-- Basic overview
+- [Basic overview](overview)
 - Project lifecycle 
 - Bug tracking systems
 - [SQL basics](sql)
