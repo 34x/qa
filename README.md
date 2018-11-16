@@ -3,7 +3,7 @@
 - [Basic overview](overview)
 - Project lifecycle 
 - Test plans and test cases
-- Bug tracking systems
+- [Bug tracking systems](bugtrakers)
 - Load testing
 - [SQL basics](sql)
 - Scripting basics
