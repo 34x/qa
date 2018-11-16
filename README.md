@@ -13,7 +13,7 @@
 - Scripting basics
 - CI basics
 - Security basics
-- VCS overview/basics
+- [VCS overview/basics](vcs)
 - Unix commands basics
 - Mobile QA
 - Levels (Junior, Middle, Senior)
