@@ -3,5 +3,5 @@
 - Basic overview
 - Project lifecycle 
 - Bug tracking systems
-- SQL basics
+- [SQL basics](sql)
 
