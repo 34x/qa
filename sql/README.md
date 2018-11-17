@@ -28,21 +28,23 @@ VALUES('tony@stark.com', 'Tony Stark', 'awesome'),
 ('thor@asgard.space', 'Thor', 'god of thunder!');
 ```
 **INSERT INTO users (email, name, `password`)**  - password is a key word, email and name are not key words
+
 **Key word** - is a specific word 
 
 [Keywords MySQL](https://dev.mysql.com/doc/refman/5.7/en/keywords.html)
 
 SELECT * FROM USERS;  - Query Error: Error: ER_NO_SUCH_TABLE: Table 'test.USERS' doesn't exist - MySQLis case sensitive for tables
 
-SELECT name, id FROM users; - correct word order for making request (SELECT [column names separated with comma or * for all columns] FROM [table name])
 
-SELECT name, id FROM users ORDER BY name; - to sort by spesific order use ORDER BY and the name of a column
+`SELECT name, id FROM users;` - correct word order for making request (SELECT [column names separated with comma or * for all columns] FROM [table name])
 
-SELECT name, id FROM users ORDER BY name DESC; - to sort in descendent order use DESC
+`SELECT name, id FROM users ORDER BY name;` - to sort by spesific order use ORDER BY and the name of a column
 
-SELECT name, id FROM users ORDER BY name ASC; - to sort in ascendent order use ASC
+`SELECT name, id FROM users ORDER BY name DESC;` - to sort in descendent order use DESC
 
--- SELECT name, id FROM users ORDER BY name ASC; - to prevent from execution (to comment a line)
+`SELECT name, id FROM users ORDER BY name ASC;` - to sort in ascendent order use ASC
+
+`-- SELECT name, id FROM users ORDER BY name ASC;` - to prevent from execution (to comment a line)
 
 ```sql
 -- To make a simple select from users table with all rows - this is a simple comment, that will not be executed
