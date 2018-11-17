@@ -4,35 +4,6 @@ Online practice: https://www.db-fiddle.com
 
 [Sql - Structured Query Language](https://en.wikipedia.org/wiki/SQL)
 
-Common databases: MySQL, PostgresSQL, SQLite
-
-```sql
-CREATE TABLE users 
-( 
-  id INT PRIMARY KEY AUTO_INCREMENT, 
-  email CHAR(50) NOT NULL,
-  name CHAR(50),
-  `password` CHAR(50)
-);
-```
-```sql
-INSERT INTO users (email, name, `password`) 
-VALUE ('user@example.com', 'Simple user', 'simple password'); 
-```
-```sql
-INSERT INTO users (email, name, `password`) 
-VALUES('tony@stark.com', 'Tony Stark', 'awesome'),
-('ironman@stark.com', 'Iron Man', 'strong password'),
-('hulk@mit.com', 'Bruce Banner', 'anger'),
-('loki@asgard.space', 'Loki', 'ghost'),
-('thor@asgard.space', 'Thor', 'god of thunder!');
-```
-# SQL 
-
-Online practice: https://www.db-fiddle.com
-
-[Sql - Structured Query Language](https://en.wikipedia.org/wiki/SQL)
-
 Common databases: MySQL, PostgresSQL
 
 ```sql
@@ -73,12 +44,19 @@ SELECT name, id FROM users ORDER BY name ASC; - to sort in ascendent order use A
 
 -- SELECT name, id FROM users ORDER BY name ASC; - to prevent from execution (to comment a line)
 
+```sql
 -- To make a simple select from users table with all rows - this is a simple comment, that will not be executed
 SELECT * FROM users; 
+```
 
 Comment Syntax - https://dev.mysql.com/doc/refman/5.7/en/comments.html
 
-With LIKE you can use the following wildcard character in the pattern: SELECT * FROM users WHERE email LIKE '%com'; - 
-                                                                       SELECT * FROM users WHERE email LIKE '%com%'; - 
-                                                                       SELECT * FROM users WHERE email LIKE 'com%'; - 
+With `LIKE` you can use the following wildcard character in the pattern: 
+
+`SELECT * FROM users WHERE email LIKE '%com';` - it finds everything that ends with **com**
+
+`SELECT * FROM users WHERE email LIKE '%com%';` - it finds everything that contains only **com**
+
+`SELECT * FROM users WHERE email LIKE 'com%';` - it finds everything that begins with **com**
+
 
