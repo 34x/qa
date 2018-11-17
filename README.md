@@ -10,7 +10,7 @@
 - UX testing
 - Load testing
 - [SQL basics](sql)
-- What diff
+- What diff is
 - Scripting basics
 - CI basics
 - Security basics
