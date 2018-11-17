@@ -1,6 +1,6 @@
 # SQL 
 
-Online practice: https://www.db-fiddle.com
+[Online practice](https://www.db-fiddle.com)
 
 [Sql - Structured Query Language](https://en.wikipedia.org/wiki/SQL)
 
@@ -30,7 +30,7 @@ VALUES('tony@stark.com', 'Tony Stark', 'awesome'),
 INSERT INTO users (email, name, `password`)  - password is a key word, email and name are not key words
 Key word - is a specific word 
 
-Keywords - https://dev.mysql.com/doc/refman/5.7/en/keywords.html
+[Keywords MySQL](https://dev.mysql.com/doc/refman/5.7/en/keywords.html)
 
 SELECT * FROM USERS;  - Query Error: Error: ER_NO_SUCH_TABLE: Table 'test.USERS' doesn't exist - MySQLis case sensitive for tables
 
@@ -49,7 +49,7 @@ SELECT name, id FROM users ORDER BY name ASC; - to sort in ascendent order use A
 SELECT * FROM users; 
 ```
 
-Comment Syntax - https://dev.mysql.com/doc/refman/5.7/en/comments.html
+[Comment Syntax](https://dev.mysql.com/doc/refman/5.7/en/comments.html)
 
 With `LIKE` you can use the following wildcard character in the pattern: 
 
