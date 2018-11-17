@@ -4,7 +4,7 @@
 
 [Sql - Structured Query Language](https://en.wikipedia.org/wiki/SQL)
 
-Common databases: MySQL, PostgresSQL
+**Common databases:** MySQL, PostgresSQL
 
 ```sql
 CREATE TABLE users 
@@ -27,8 +27,8 @@ VALUES('tony@stark.com', 'Tony Stark', 'awesome'),
 ('loki@asgard.space', 'Loki', 'ghost'),
 ('thor@asgard.space', 'Thor', 'god of thunder!');
 ```
-INSERT INTO users (email, name, `password`)  - password is a key word, email and name are not key words
-Key word - is a specific word 
+**INSERT INTO users (email, name, `password`)**  - password is a key word, email and name are not key words
+**Key word** - is a specific word 
 
 [Keywords MySQL](https://dev.mysql.com/doc/refman/5.7/en/keywords.html)
 
