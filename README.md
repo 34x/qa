@@ -8,8 +8,8 @@
 - [Logs and error levels](logs)
 - [HTML & CSS basics](html)
 - Markdown basics
-- HTTP Basics
-- API
+- [HTTP Basics](http)
+- [API](api)
 - UX testing
 - Load testing
 - [SQL basics](sql)
