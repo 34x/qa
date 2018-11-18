@@ -77,5 +77,14 @@ With `LIKE` you can use the following wildcard character in the pattern:
 
 `UPDATE users SET name = "Allmighty Loki" WHERE id = '5';` - the way to change the name
 
+*In case of using sql injection:*
+
+`SELECT name FROM users WHERE name LIKE '%Lo'; SELECT email, `password` FROM users; -- %';`
+
+*The way to avoid sql injection* - code part
+`SELECT * FROM users WHERE name LIKE '%\'%';`
+
+
+
 
 
