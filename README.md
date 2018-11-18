@@ -8,6 +8,8 @@
 - HTML basics
 - CSS basics
 - Markdown basics
+- HTTP Basics
+- API
 - UX testing
 - Load testing
 - [SQL basics](sql)
