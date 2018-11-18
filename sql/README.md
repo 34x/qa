@@ -1,5 +1,16 @@
 # SQL 
 
+## What sql is
+
+## Tables and how to create them
+
+## Select, sort and conditional statements
+
+## Update statements
+
+## Delete statements
+
+
 [Online practice](https://www.db-fiddle.com)
 
 [Sql - Structured Query Language](https://en.wikipedia.org/wiki/SQL)
