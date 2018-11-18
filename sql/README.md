@@ -4,7 +4,7 @@
 
 [Sql - Structured Query Language](https://en.wikipedia.org/wiki/SQL)
 
-**Common databases:** MySQL, PostgresSQL
+**Common SQL databases:** MySQL, PostgresSQL, SQLite
 
 ```sql
 CREATE TABLE users 
