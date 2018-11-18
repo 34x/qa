@@ -6,8 +6,7 @@
 - [Test plans and test cases](test-case-plan)
 - [Bug tracking systems](bugtrakers)
 - [Logs and error levels](logs)
-- HTML basics
-- CSS basics
+- [HTML & CSS basics](html)
 - Markdown basics
 - HTTP Basics
 - API
