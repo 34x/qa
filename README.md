@@ -7,6 +7,7 @@
 - [Bug tracking systems](bugtrakers)
 - HTML basics
 - CSS basics
+- Markdown basics
 - UX testing
 - Load testing
 - [SQL basics](sql)
@@ -17,4 +18,4 @@
 - Unix commands basics
 - Mobile QA
 - Levels (Junior, Middle, Senior)
-- Markdown
+
