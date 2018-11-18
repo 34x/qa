@@ -73,4 +73,9 @@ With `LIKE` you can use the following wildcard character in the pattern:
 
 `SELECT * FROM users WHERE email LIKE 'com%';` - it finds everything that begins with **com**
 
+`SELECT * FROM users *WHERE email LIKE '%com';`* - WHERE is a condition 
+
+`UPDATE users SET name = "Allmighty Loki" WHERE id = '5';` - the way to change the name
+
+
 
