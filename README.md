@@ -4,7 +4,7 @@
 - [Search basics](search)
 - [Project lifecycle](project-lifecycle)
 - [Test plans and test cases](test-case-plan)
-- [Bug tracking systems](bugtrakers)
+- [Bug tracking systems](bugtrackers)
 - [Logs and error levels](logs)
 - [HTML & CSS basics](html)
 - Markdown basics
