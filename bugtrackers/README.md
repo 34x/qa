@@ -3,7 +3,7 @@
 
 
 
-Some of the widely used bugtracking systems: Jira, Trello, Gitlab, Trac, Redmine.
+Some of the widely used bugtracking systems: Jira, Trello, Github issues, Gitlab, Trac, Redmine.
 
 
 https://www.joelonsoftware.com/2000/11/08/painless-bug-tracking/
