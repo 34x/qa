@@ -52,6 +52,31 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Response_message)
 >
+
+```
+A Status-line
+
+Zero or more header (General|Response|Entity) fields followed by CRLF
+
+An empty line (i.e., a line with nothing preceding the CRLF) 
+indicating the end of the header fields
+
+Optionally a message-body
+```
+
+```
+HTTP/1.1 200 OK
+Date: Mon, 27 Jul 2009 12:28:53 GMT
+Server: Apache/2.2.14 (Win32)
+Last-Modified: Wed, 22 Jul 2009 19:15:56 GMT
+Content-Length: 88
+Content-Type: text/html
+Connection: Closed
+```
+
+
+
+
 ## Cookies
 >
 > The **http cookie** (also called web cookie, Internet cookie, browser cookie, or simply cookie) is a small piece of data sent from a website and stored on the user's computer by the user's web browser while the user is browsing. Cookies were designed to be a reliable mechanism for websites to remember stateful information (such as items added in the shopping cart in an online store) or to record the user's browsing activity (including clicking particular buttons, logging in, or recording which pages were visited in the past). They can also be used to remember arbitrary pieces of information that the user previously entered into form fields such as names, addresses, passwords, and credit card numbers.
