@@ -22,32 +22,32 @@
 >
 > The **http request** defines methods to indicate the desired action to be performed on the identified resource.
 >
-> **The three most common HTTP methods are: GET and POST**
+> **The two most common HTTP methods are: GET and POST**
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods)
 >
 > The **GET** method requests a representation of the specified resource. Requests using GET should only retrieve data and should have no other effect
 >
-> In non technical words **GET request** sends all information as a part of URL, so it can be seen (and stolen sometimes)
+> In non technical words **GET request** sends all information as a part of URL, so it can be seen (and stolen sometimes), when you ask server to show some particular page; when you click on a link
 >
 > ex. http://www.komtet.ru/script.php?login=admin&name=komtet
 >
 > The **POST** method requests that the server accept the entity enclosed in the request as a new subordinate of the web resource identified by the URI. The data POSTed might be, for example, an annotation for existing resources; a message for a bulletin board, newsgroup, mailing list, or comment thread; a block of data that is the result of submitting a web form to a data-handling process; or an item to add to a database.
 >
-> In non technical words **POST request** the web site client can't see the data
+> In non technical words **POST request** the web site client can't see the data, when you sent some data to server
 >
 > ex. http://www.komtet.ru/script.php
 >
 ## Response
-
+>
 > **The response message consists of the following:**
-
+>
 > **a status line** which includes the status code and reason message (e.g., HTTP/1.1 200 OK, which indicates that the client's request succeeded.)
-
+>
 > **response header fields** (e.g., Content-Type: text/html)
-
+>
 > **an empty line**
-
+>
 > **an optional message body**
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Response_message)
