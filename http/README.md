@@ -58,7 +58,7 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/HTTP_cookie)
 >
-> In non technical words **cookie** is a small piece of data, that is sent by server to a client and kept on a user's computer by browser
+> In non technical words **cookie** is a small text files, that is sent by server to a client and kept on a user's computer by browser in order to remember user's password or login or both for ex
 >
 ## Common status codes
 >
