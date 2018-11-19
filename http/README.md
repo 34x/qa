@@ -95,4 +95,66 @@
 > **500** Internal Server Error** 
 >
 
+
+
+Request:
+
+```
+METHOD URI PROTOCOL
+HEADER1: header_value1
+HEADER2: headr_value2
+
+REQUEST BODY
+```
+
+
+GET request example
+
+http://yandex.ru/some_document
+
+```http
+GET /some_document HTTP/1.1
+User-Agent: Mozilla/4.0 (compatible; MSIE5.01; Windows NT)
+Host: yandex.ru
+```
+
+---
+
+Browser address bar: `http://example.com/hello.html`
+
+```http
+GET /hello.html HTTP/1.1
+User-Agent: Mozilla/4.0 (compatible; MSIE5.01; Windows NT)
+Host: example.com
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: Keep-Alive
+```
+
+---
+
+Browser address bar: `http://google.com`
+```http
+GET / HTTP/1.1
+User-Agent: Internet Explorer
+Host: google.com
+```
+---
+
+POST request example
+
+```http
+POST /login HTTP/1.1
+User-Agent: Mozilla/4.0 (compatible; MSIE5.01; Windows NT)
+Host: example.com
+Content-Type: application/x-www-form-urlencoded
+Content-Length: length
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: Keep-Alive
+
+login=myname&password=mystrongestpassword
+```
+
+
 [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when) - detailed explanation
