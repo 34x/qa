@@ -14,18 +14,29 @@
 >
 > In non technical words **Hypertext** is the system of web-pages with hyperlinks
 >
+> [How it works](https://en.wikipedia.org/wiki/Hypertext#/media/File:Sistema_hipertextual.jpg)
+>
 ## Request
+>
+> The **http request** is a way to apply to web resourse
+>
 > The **http request** defines methods to indicate the desired action to be performed on the identified resource.
 >
-> **The three most common HTTP methods are: GET, POST and HEAD**
+> **The three most common HTTP methods are: GET and POST**
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods)
 >
 > The **GET** method requests a representation of the specified resource. Requests using GET should only retrieve data and should have no other effect
 >
-> The **HEAD** method asks for a response identical to that of a GET request, but without the response body. This is useful for retrieving meta-information written in response headers, without having to transport the entire content
+> In non technical words **GET request** sends all information as a part of URL, so it can be seen (and stolen sometimes)
+>
+> ex. http://www.komtet.ru/script.php?login=admin&name=komtet
 >
 > The **POST** method requests that the server accept the entity enclosed in the request as a new subordinate of the web resource identified by the URI. The data POSTed might be, for example, an annotation for existing resources; a message for a bulletin board, newsgroup, mailing list, or comment thread; a block of data that is the result of submitting a web form to a data-handling process; or an item to add to a database.
+>
+> In non technical words **POST request** the web site client can't see the data
+>
+> ex. http://www.komtet.ru/script.php
 >
 ## Response
 
