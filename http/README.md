@@ -6,7 +6,7 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 
-In non technical words **http** is the set of rules by which a client (usually web browser) makes a **request** to a server (usually some website, e.g. http://example.com) and the server respond with a **response**.
+In non technical words **http** is the set of rules by which a client (usually web browser) makes a **request** to a server (usually some website, e.g. http://example.com) and the server responds with a **response**.
 
 > The **<a name="hypertext">Hypertext</a>** is text displayed on a computer display or other electronic devices with references (hyperlinks) to other text that the reader can immediately access.[1] Hypertext documents are interconnected by hyperlinks, which are typically activated by a mouse click, keypress set or by touching the screen. Apart from text, the term "hypertext" is also sometimes used to describe tables, images, and other presentational content formats with integrated hyperlinks.
 >
