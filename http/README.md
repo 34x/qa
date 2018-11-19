@@ -58,6 +58,8 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/HTTP_cookie)
 >
+> In non technical words **cookie** is a small piece of data, that is sent by web site to a client and kept on a user's computer by browser
+>
 ## Common status codes
 > The **status codes** are issued by a server in response to a client's request made to the server. It includes codes from IETF Request for Comments (RFCs), other specifications, and some additional codes used in some common applications of the Hypertext Transfer Protocol (HTTP). The first digit of the status code specifies one of five standard classes of responses.
 >
