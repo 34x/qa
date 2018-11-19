@@ -6,6 +6,14 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 
+In non technical words http is
+
+
+## Request
+
+## Response
+
+## Cookies
 
 ## Common status codes
 
