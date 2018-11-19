@@ -72,6 +72,12 @@ Last-Modified: Wed, 22 Jul 2009 19:15:56 GMT
 Content-Length: 88
 Content-Type: text/html
 Connection: Closed
+
+<html>
+<body>
+<h1>Hello, World!</h1>
+</body>
+</html>
 ```
 
 
