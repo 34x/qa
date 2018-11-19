@@ -16,6 +16,15 @@ In non technical words **Hypertext** is the system of web-pages with hyperlinks 
 
 
 ## Request
+
+```
+METHOD URI PROTOCOL
+HEADER1: header_value1
+HEADER2: headr_value2
+
+REQUEST BODY
+```
+
 >
 > The **http request** is a way to apply to web resourse
 >
@@ -125,18 +134,7 @@ Connection: Closed
 > **500** Internal Server Error** 
 >
 
-
-
-Request:
-
-```
-METHOD URI PROTOCOL
-HEADER1: header_value1
-HEADER2: headr_value2
-
-REQUEST BODY
-```
-
+## Examples
 
 GET request example
 
