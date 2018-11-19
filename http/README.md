@@ -48,20 +48,20 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/HTTP_cookie)
 >
 ## Common status codes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> The **status codes** are issued by a server in response to a client's request made to the server. It includes codes from IETF Request for Comments (RFCs), other specifications, and some additional codes used in some common applications of the Hypertext Transfer Protocol (HTTP). The first digit of the status code specifies one of five standard classes of responses.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+>
+> All HTTP response status codes are separated into five classes (or categories). The first digit of the status code defines the class of response. The last two digits do not have any class or categorization role. There are five values for the first digit:
+>
+> 1xx (Informational): The request was received, continuing process
+>
+> 2xx (Successful): The request was successfully received, understood, and accepted
+>
+> 3xx (Redirection): Further action needs to be taken in order to complete the request
+>
+> 4xx (Client Error): The request contains bad syntax or cannot be fulfilled
+>
+> 5xx (Server Error): The server failed to fulfill an apparently valid request
 
 [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when) - detailed explanation
