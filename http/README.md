@@ -19,7 +19,7 @@
 >
 > **The three most common HTTP methods are: GET, POST and HEAD**
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+> [Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods)
 >
 > The **GET** method requests a representation of the specified resource. Requests using GET should only retrieve data and should have no other effect
 >
@@ -39,11 +39,14 @@
 
 > **an optional message body**
 >
->
->
+> [Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Response_message)
 >
 ## Cookies
-
+>
+> The **http cookie** (also called web cookie, Internet cookie, browser cookie, or simply cookie) is a small piece of data sent from a website and stored on the user's computer by the user's web browser while the user is browsing. Cookies were designed to be a reliable mechanism for websites to remember stateful information (such as items added in the shopping cart in an online store) or to record the user's browsing activity (including clicking particular buttons, logging in, or recording which pages were visited in the past). They can also be used to remember arbitrary pieces of information that the user previously entered into form fields such as names, addresses, passwords, and credit card numbers.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/HTTP_cookie)
+>
 ## Common status codes
 
 
