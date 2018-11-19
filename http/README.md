@@ -66,16 +66,33 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 >
+> In non technical words **status code** is the first part of a server's answer to http request, also contains a phrase in English, that clears the problem
+>
 > All HTTP response status codes are separated into five classes (or categories). The first digit of the status code defines the class of response. The last two digits do not have any class or categorization role. There are five values for the first digit:
 >
-> **1xx (Informational):** The request was received, continuing process
+> **1xx (Informational):** The request was received, continuing process 
+>
+> **102** Processing 
 >
 > **2xx (Successful):** The request was successfully received, understood, and accepted
 >
+> **200 OK**
+>
+> **201 Created**
+>
 > **3xx (Redirection):** Further action needs to be taken in order to complete the request
+>
+> **301** Moved Permanently
+>
+> **302** Moved Temporarily
 >
 > **4xx (Client Error):** The request contains bad syntax or cannot be fulfilled
 >
+> **404** Not Found 
+>
 > **5xx (Server Error):** The server failed to fulfill an apparently valid request
+>
+> **500** Internal Server Error** 
+>
 
 [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when) - detailed explanation
