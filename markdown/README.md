@@ -7,3 +7,5 @@
 ## Lists
 
 ## Tables
+
+## Code highlighting
