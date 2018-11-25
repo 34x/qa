@@ -7,7 +7,7 @@
 - [Bug tracking systems](bugtrackers)
 - [Logs and error levels](logs)
 - [HTML & CSS basics](html)
-- Markdown basics
+- [Markdown basics](markdown)
 - [HTTP Basics](http)
 - [API](api)
 - UX testing
