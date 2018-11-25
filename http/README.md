@@ -126,13 +126,14 @@ Connection: Closed
 > **302** Moved Temporarily
 >
 > **4xx (Client Error):** The request contains bad syntax or cannot be fulfilled
->
+**401** 
+
 > **404** Not Found 
 >
 > **5xx (Server Error):** The server failed to fulfill an apparently valid request
 >
 > **500** Internal Server Error** 
->
+**502**
 
 ## Examples
 
