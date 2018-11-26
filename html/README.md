@@ -74,3 +74,57 @@ In non technical words **html** is the way you see a page on the screeen accordi
 **Cascading Style Sheets (CSS)** is a style sheet language used for describing the presentation of a document written in a markup language like HTML.
 
 [Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+In non technical words **css** is the design of a page.
+
+```html
+
+<style type="text/css">
+		
+		* {
+			color:white;
+		 }
+		body {
+			background-color:lightgrey;
+
+			font-family: Arial;
+
+			font-size: 10pt;
+
+			background-image: url("http://hdwpro.com/wp-content/uploads/2017/11/Free-Desktop-Background.jpeg");	
+
+			background-attachment: fixed;	
+
+		  		}
+
+			
+
+		h1, h2, h3 {
+			color:darkred;
+		
+			background-color:yellow;
+
+			font-size: 200%;
+
+			font-family: Courier;
+
+			border-bottom: 2pt darkblue solid;
+
+			text-align: center;
+
+			padding: 1ex 4ex;
+
+			}
+		h2{
+			font-size: 150%;
+		}
+
+		ol {
+			font-size: 20px;
+		}
+
+		.tags{
+			border-color:red;
+		}
+
+	</style>
