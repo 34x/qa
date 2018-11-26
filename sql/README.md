@@ -92,3 +92,5 @@ With `LIKE` you can use the following wildcard character in the pattern:
 
 `a'); DELETE FROM post; -- wtf`
 
+
+`a' UNION SELECT * FROM post; --`
