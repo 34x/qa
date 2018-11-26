@@ -81,51 +81,34 @@ In non technical words **css** is the design of a page.
 
 <style type="text/css">
 		
-		* {
-			color:white;
-		 }
-		body {
-			background-color:lightgrey;
+	* {
+		color:white;
+	  }
+	body {
+		background-color:lightgrey;
+		font-family: Arial;
+		font-size: 10pt;
+		background-image: url("http://hdwpro.com/wp-content/uploads/2017/11/Free-Desktop-Background.jpeg");	
+		background-attachment: fixed;	
+  		}
 
-			font-family: Arial;
-
-			font-size: 10pt;
-
-			background-image: url("http://hdwpro.com/wp-content/uploads/2017/11/Free-Desktop-Background.jpeg");	
-
-			background-attachment: fixed;	
-
-		  		}
-
-			
-
-		h1, h2, h3 {
-			color:darkred;
-		
-			background-color:yellow;
-
-			font-size: 200%;
-
-			font-family: Courier;
-
-			border-bottom: 2pt darkblue solid;
-
-			text-align: center;
-
-			padding: 1ex 4ex;
-
-			}
-		h2{
-			font-size: 150%;
+	h1, h2, h3 {
+		color:darkred;
+		background-color:yellow;
+		font-size: 200%;
+		font-family: Courier;
+		border-bottom: 2pt darkblue solid;
+		text-align: center;
+		padding: 1ex 4ex;
 		}
-
-		ol {
-			font-size: 20px;
+	h2{
+		font-size: 150%;
 		}
-
-		.tags{
-			border-color:red;
+	ol {
+		font-size: 20px;
 		}
-
+	.tags{
+		border-color:red;
+		}
 	</style>
 ```
