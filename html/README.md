@@ -63,33 +63,19 @@ In non technical words **html** is the way you see a page on the screeen accordi
 
 
 		<td>ячейка 1, первый ряд</td>
-
 		<td>ячейка 2, первый ряд</td>
-
 		<td>ячейка 3, первый ряд</td>
-
 	</tr>
-
 	<tr>
-
 		<td>ячейка 1, второй ряд</td>
-
 		<td>ячейка 2, второй ряд</td>
-
 		<td>ячейка 3, второй ряд</td>
-
 	</tr>
-
 	<tr>
-
 		<td>ячейка 1, третий ряд</td>
-
 		<td>ячейка 2, третий ряд</td>
-
 		<td>ячейка 3, третий ряд</td>
-
 	</tr>
-
 	</table> 
 
 
