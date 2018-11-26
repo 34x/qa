@@ -86,5 +86,9 @@ With `LIKE` you can use the following wildcard character in the pattern:
 
 
 
+## SQL Injections
 
+`a'); DELETE FROM post; -- wtf`
+
+`a'); DELETE FROM post; -- wtf`
 
