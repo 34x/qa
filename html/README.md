@@ -5,7 +5,7 @@
 [Wikipedia](https://en.wikipedia.org/wiki/HTML)
 
 In non technical words **html** is the way you see a page on the screeen according to its marking.
-
+```html
 <html>
 <head> 
 	<title> My first web page</title>
@@ -67,7 +67,7 @@ In non technical words **html** is the way you see a page on the screeen accordi
 
 </body>
 </html>
-
+```
 
 
 
