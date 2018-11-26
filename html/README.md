@@ -11,7 +11,9 @@ In non technical words **html** is the way you see a page on the screeen accordi
 	<title> My first web page</title>
 </head>
 <body>
+	
 	<h1>Documentation</h1> 
+	
 	<h2>Keyboards shortcuts</h2>
 	
 	<div><strong>ctrl+s</strong> - save document</div>
