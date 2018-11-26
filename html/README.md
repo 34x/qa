@@ -94,6 +94,7 @@ In non technical words **html** is the way you see a page on the screeen accordi
 
 <div>&lt;th&gt; - elements are bold and centered by default
 
+
 </body>
 </html>
 
