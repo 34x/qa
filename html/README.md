@@ -8,13 +8,13 @@ In non technical words **html** is the way you see a page on the screeen accordi
 
 **Creating a web page**
 
-<html>
-<head> 
-	<title> My first web page</title>
-</head>
-<body>
+html
+head
+	title My first web page /title
+/head
+body
 
-</body>
-</html>
+/body
+/html
 
-To close the tag you nedd to add slash for ex <**/**html>
+To close the tag you nedd to add slash for ex **/** html
