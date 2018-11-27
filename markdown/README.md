@@ -28,7 +28,7 @@ You can indicate emphasis with **bold** and *italic*.
 
 **Bold text**
 
- * * - *italic*
+* * - *italic*
 
 *Italic text*
 
@@ -36,4 +36,6 @@ You can indicate emphasis with **bold** and *italic*.
 
 ## Tables
 
-## Code highlighting
+## Quoting code
+
+You can **call out** code or a command within a sentence with single backticks. 
