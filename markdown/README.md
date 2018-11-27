@@ -28,7 +28,7 @@ You can indicate emphasis with **bold** and *italic*.
 
 **Bold text**
 
-* * - *italic*
+ * * - *italic*
 
 *Italic text*
 
