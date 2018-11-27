@@ -92,9 +92,9 @@ Example html form: email, name, body.
 
 Example table:
 
-id | email | name | body 
----|-------|------|------
-int|string |string|string
+id | email | name | body |ip
+---|-------|------|------|---
+int|string |string|string|string
 
 New post create query: 
 
@@ -114,6 +114,6 @@ Search query:
 SELECT * FROM post WHERE email LIKE '%$term%' OR name LIKE '%$term%' OR body LIKE '%$term%' LIMIT 100;
 ```
 
-SQL injection (written in the `search` field):
+SQL injection (written in the `search` field) that reveal user IP to anyone:
 
-`a' UNION SELECT * FROM post; --`
+`text' UNION SELECT id, email, name, ip as body, ip FROM post; -- `
