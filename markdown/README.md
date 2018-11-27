@@ -22,6 +22,16 @@ To create a **heading**, add one to six # symbols before your heading text. The 
 
 ## Italic and bold
 
+You can indicate emphasis with **bold** and *italic*.
+
+** ** - **bold**
+
+**Bold text**
+
+* * - *italic*
+
+*Italic text*
+
 ## Lists
 
 ## Tables
