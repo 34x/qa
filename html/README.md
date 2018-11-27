@@ -115,10 +115,13 @@ In non technical words **css** is the design of a page.
 ```html
 <style type="text/css"> - working with style
 	
-**<body>**	
 color:white;
 background-color:lightgrey;
 font-family: Arial;
 font-size: 10pt;
 background-image: url("http://...jpeg");	
 background-attachment: fixed;
+border-bottom: 2pt darkblue solid;
+text-align: center;
+margin: 1ex 4ex;
+padding: 1ex 4ex;
