@@ -10,9 +10,15 @@ To create a **heading**, add one to six # symbols before your heading text. The 
 
 **#** The largest heading
 
+# The largest
+
 **##** The second largest heading
 
+## The second largest
+
 **######** The smallest heading
+
+###### The smallest
 
 ## Italic and bold
 
