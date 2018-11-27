@@ -88,9 +88,32 @@ With `LIKE` you can use the following wildcard character in the pattern:
 
 ## SQL Injections
 
-`a'; DELETE FROM post; -- wtf`
+Example html form: email, name, body.
+
+Example table:
+
+id | email | name | body 
+---|-------|------|------
+int|string |string|string
+
+New post create query: 
+
+```sql 
+INSERT INTO post (id, email, name, body)
+       VALUES(((SELECT count(*) FROM post) + 1), '$email', '$name', '$body')
+```
+
+SQL injection (written in the `body` field):
+
 
 `a'); DELETE FROM post; -- wtf`
 
+Search query: 
+
+```sql
+SELECT * FROM post WHERE email LIKE '%$term%' OR name LIKE '%$term%' OR body LIKE '%$term%' LIMIT 100;
+```
+
+SQL injection (written in the `search` field):
 
 `a' UNION SELECT * FROM post; --`
