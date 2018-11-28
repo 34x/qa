@@ -1,8 +1,14 @@
 # Markdown overview
 
+Markdown is a way to format text documents. It is widely used in documentation, issues tracking systems, blogs e.t.c.. It helps you to structurize  your text in a simple way in a simple text editor.
+
+In this chapter you will learn basic syntax for formatting documents in markdown format.
+
 > **Markdown** is a lightweight markup language with plain text formatting syntax.
 >
-> [from Wikipedia](https://en.wikipedia.org/wiki/Markdown)
+> [Wikipedia](https://en.wikipedia.org/wiki/Markdown)
+
+
 
 ## Headers
 
