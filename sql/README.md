@@ -1,6 +1,15 @@
 # SQL 
 
+In this chapter you will learn how to:
+
+- create data in SQL data bases (`CREATE`, `INSERT`)
+- search for this data (`SELECT`)
+- delete the data (`DELETE`)
+- sql injections
+
 ## What sql is
+
+[Sql is Structured Query Language](https://en.wikipedia.org/wiki/SQL) the language that SQL databases are using to operate with their data.
 
 ## Tables and how to create them
 
@@ -13,7 +22,7 @@
 
 [Online practice](https://www.db-fiddle.com)
 
-[Sql - Structured Query Language](https://en.wikipedia.org/wiki/SQL)
+
 
 **Common SQL databases:** MySQL, PostgresSQL, SQLite
 
