@@ -20,4 +20,4 @@
 
 `grep`
 
-## Combine commands with `pipes` and `;`
+## Combine commands with `;`, `&&`, `|`
