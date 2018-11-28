@@ -17,7 +17,7 @@
 - CI basics
 - Security basics
 - [VCS overview/basics](vcs)
-- [Linux commands basics](linux)
+- [Linux basics](linux)
 - Mobile QA
 - Levels (Junior, Middle, Senior)
 
