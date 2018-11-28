@@ -1,8 +1,10 @@
 # HTML & CSS
 
-**Hypertext Markup Language (HTML)** is the standard markup language for creating web pages and web applications. 
+In this chapter you will learn how to make a simple webpage with html and style it with css.
 
-[Wikipedia](https://en.wikipedia.org/wiki/HTML)
+>> **Hypertext Markup Language (HTML)** is the standard markup language for creating web pages and web applications. 
+> 
+> [Wikipedia](https://en.wikipedia.org/wiki/HTML)
 
 In non technical words **html** is the way you see a page on the screeen according to its marking.
 ```html
