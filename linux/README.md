@@ -14,6 +14,12 @@ In this chapter you will learn how to:
 
 ### Navigation
 
+`.` - current directry alias
+
+`..` - parent directory alias
+
+`/` - root directory
+
 `pwd` - print working directory - the directory where you are currently.
 
 `cd` - change directory e.g. `cd /var/www` will change current directory to `/var/www`.
