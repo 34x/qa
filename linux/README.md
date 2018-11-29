@@ -12,23 +12,12 @@ In this chapter you will learn how to:
 
 ## Commands and their arguments
 
-## Some commands
+### Navigation
 
-`pwd`
+`pwd` - print working directory - the directory where you are currently.
 
-`ls`
+`cd` - change directory e.g. `cd /var/www` will change current directory to `/var/www`.
 
-`cd`
-
-`mkdir`
-
-`touch`
-
-`cat`, `head`, `tail`
-
-`curl`
-
-`grep`
 
 ## Combine commands with `;`, `&&`, `|`
 
