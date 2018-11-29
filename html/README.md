@@ -71,6 +71,8 @@ In non technical words **html** is the way you see a page on the screeen accordi
 </html>
 ```
 
+To make a link use &lt;a&gt; tag with `href="some_url"` as attribute, for example: `<a href="http://google.com">go to google</a>`
+
 # CSS
 
 **Cascading Style Sheets (CSS)** is a style sheet language used for describing the presentation of a document written in a markup language like HTML.
